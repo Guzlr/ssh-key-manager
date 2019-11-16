@@ -1,0 +1,5 @@
+# Fedora 31 host
+ssh-rsa AAAAB3NzaC1gfhyc2EAAAADAQABAAABAQD6x+czfHPvKSBi9UY6TX2xhKwvqBiUlL14F steve@fedora
+
+# Ubuntu 16.04 host
+ssh-rsa AAAAB3NzaC1yc2EAfZb7G8Jqq2UBBMtscXTchPYAFYjCMyPKV8WaTSWvqRUAYjwy7 steve@ubuntu

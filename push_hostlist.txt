@@ -1,0 +1,8 @@
+server1
+server2
+iot
+unifi
+backup
+pi-a
+pi-b
+pi-c
